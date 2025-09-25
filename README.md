@@ -4,10 +4,6 @@ Live URL: https://0x67.kiddy.wtf/
 
 Quick guide to run and use the dashboard.
 
-## Requirements
-- PHP with cURL (XAMPP/Apache recommended)
-
-
 ## Use
 - Sidebar navigation: `Overview`, `Offsets`, `Charts`.
 - Sidebar actions (mobile-first): `Download .HPP`, `Copy`, `Export JSON`, `Refresh`.
